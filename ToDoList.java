@@ -1,5 +1,5 @@
 import java.util.*;
-public class Week5Special {
+public class ToDoList {
     private static Map<Integer,String> tasks=new HashMap<>();
     private static Map<String, String> status=new HashMap<String, String>();
     private static Scanner sc=new Scanner(System.in);
